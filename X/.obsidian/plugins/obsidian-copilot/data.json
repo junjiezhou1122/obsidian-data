@@ -1,7 +1,7 @@
 {
   "userId": "ccf64dac-bc80-4ec1-89a3-bec69e852307",
   "isPlusUser": false,
-  "plusLicenseKey": "",
+  "plusLicenseKey": "1",
   "openAIApiKey": "",
   "openAIOrgId": "",
   "huggingfaceApiKey": "",
@@ -13,7 +13,7 @@
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
   "googleApiKey": "AIzaSyAWU1XkmL7PCK_DgahWOAMjCfbPQ_1HY7o",
-  "openRouterAiApiKey": "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",
+  "openRouterAiApiKey": "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",
   "xaiApiKey": "",
   "mistralApiKey": "",
   "deepseekApiKey": "",
@@ -30,6 +30,7 @@
   "defaultSaveFolder": "copilot-conversations",
   "defaultConversationTag": "copilot-conversation",
   "autosaveChat": false,
+  "includeActiveNoteAsContext": true,
   "defaultOpenArea": "view",
   "customPromptsFolder": "copilot-custom-prompts",
   "indexVaultToVectorStore": "ON MODE SWITCH",
@@ -232,6 +233,12 @@
       "stream": true,
       "displayName": "meta-llama/llama-3.3-70b-instruct:free",
       "enableCors": true
+    },
+    {
+      "name": "deepseek/deepseek-r1-0528:free",
+      "provider": "openrouterai",
+      "apiKey": "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",
+      "enabled": true
     }
   ],
   "activeEmbeddingModels": [
@@ -251,7 +258,6 @@
       "isBuiltIn": true,
       "isEmbeddingModel": true,
       "core": true,
-      "believerExclusive": true,
       "dimensions": 1024,
       "plusExclusive": true
     },
@@ -310,6 +316,7 @@
   "showRelevantNotes": true,
   "numPartitions": 1,
   "promptUsageTimestamps": {},
+  "promptSortStrategy": "timestamp",
   "defaultConversationNoteName": "{$topic}@{$date}_{$time}",
   "inlineEditCommands": [
     {
@@ -383,12 +390,12 @@
       "showInContextMenu": false
     }
   ],
-  "lastDismissedVersion": null,
-  "passMarkdownImages": true,
-  "enableCustomPromptTemplating": true,
-  "includeActiveNoteAsContext": true,
+  "projectList": [],
+  "enableAutocomplete": true,
+  "autocompleteAcceptKey": "Space",
   "allowAdditionalContext": true,
   "enableWordCompletion": true,
-  "enableAutocomplete": true,
-  "autocompleteAcceptKey": "Space"
+  "lastDismissedVersion": null,
+  "passMarkdownImages": true,
+  "enableCustomPromptTemplating": true
 }
