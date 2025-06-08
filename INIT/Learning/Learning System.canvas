@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"9cb8beddf1aca73d","type":"text","text":"Learning System ","x":873,"y":-175,"width":250,"height":60},
+		{"id":"e1b42175ab4d40f5","type":"text","text":"Memory\n![[Pasted image 20250111095850.png]]","x":1220,"y":-200,"width":250,"height":85},
+		{"id":"75924be403a3beeb","type":"text","text":"Analogous\n![[Pasted image 20250111100053.png]]","x":1520,"y":-300,"width":260,"height":100},
+		{"id":"7861f940c55d7862","type":"text","text":"Focus","x":1220,"y":60,"width":250,"height":60},
+		{"id":"0cb937e28e2b6f5e","x":1525,"y":-80,"width":250,"height":60,"type":"text","text":"Chunking"},
+		{"id":"d3575b473672f846","x":823,"y":-39,"width":257,"height":119,"type":"text","text":"Learning using other ways.(give up the modern system, create a fully new way)"}
+	],
+	"edges":[
+		{"id":"ca6f9d835020b963","fromNode":"e1b42175ab4d40f5","fromSide":"top","toNode":"75924be403a3beeb","toSide":"top"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"225f940b1687be4b","type":"text","text":"English Learning System\n","x":-216,"y":-123,"width":250,"height":60},
+		{"id":"0c3a6a8151990d28","type":"text","text":"Reading\n1. reading explore (book)\n2. news\n3. Whatever I am interested in","x":120,"y":-123,"width":240,"height":163},
+		{"id":"0b861e03aa43d861","type":"text","text":"Writing\n1. Great Writing\n2. College writing books","x":-72,"y":75,"width":292,"height":105},
+		{"id":"c4aed0ac476b0fc1","type":"text","text":"Review is the core","x":-300,"y":-459,"width":250,"height":60,"color":"1"},
+		{"id":"034a500fd72e462c","x":-462,"y":113,"width":250,"height":147,"type":"text","text":"Listening\n1. Actual English\n2. "}
+	],
+	"edges":[
+		{"id":"0cda8fabb98a6c32","fromNode":"225f940b1687be4b","fromSide":"right","toNode":"0c3a6a8151990d28","toSide":"left"},
+		{"id":"3d0d7222fd0f9d61","fromNode":"225f940b1687be4b","fromSide":"bottom","toNode":"0b861e03aa43d861","toSide":"left"},
+		{"id":"3ab996dc7b648d53","fromNode":"225f940b1687be4b","fromSide":"top","toNode":"c4aed0ac476b0fc1","toSide":"bottom"},
+		{"id":"26d23108a0417e3a","fromNode":"225f940b1687be4b","fromSide":"left","toNode":"034a500fd72e462c","toSide":"top"}
+	]
+}

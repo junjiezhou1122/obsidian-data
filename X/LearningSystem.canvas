@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"456c85cdf32efe02","type":"text","text":"INPUT","x":-520,"y":-60,"width":250,"height":60,"color":"2"},
+		{"id":"8ad3f23c047e5fab","type":"text","text":"OUTPUT","x":600,"y":-60,"width":250,"height":60,"color":"2"},
+		{"id":"deeb228fa9e8109a","type":"text","text":"FUNCTION","x":80,"y":-60,"width":240,"height":60,"color":"6"},
+		{"id":"f28719847d33e86d","x":-440,"y":200,"width":250,"height":60,"type":"text","text":"MODEL"},
+		{"id":"30fefd73f7136659","type":"text","text":"**Process info**","x":-190,"y":20,"width":250,"height":60,"color":"1"},
+		{"id":"25a6d28841527373","x":-516,"y":305,"width":250,"height":60,"type":"text","text":"[[Bias]]"}
+	],
+	"edges":[
+		{"id":"53a20b5fc6eca27e","fromNode":"456c85cdf32efe02","fromSide":"right","toNode":"deeb228fa9e8109a","toSide":"left"},
+		{"id":"72063f10291f71f0","fromNode":"deeb228fa9e8109a","fromSide":"right","toNode":"8ad3f23c047e5fab","toSide":"left"},
+		{"id":"bf84deba537ae429","fromNode":"30fefd73f7136659","fromSide":"bottom","toNode":"f28719847d33e86d","toSide":"top"}
+	]
+}

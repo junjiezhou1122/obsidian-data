@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "92c6980337460225",
+    "type": "split",
+    "children": [
+      {
+        "id": "de9285f62e995dd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1e35b5ea30ea65f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "电子与信息工程学院_计算机科学与技术_张媛_周君杰_21205020234_基于React的个性化学习资源导航平台.pdf",
+                "page": 1,
+                "left": 0,
+                "top": 842,
+                "zoom": 0.5417436586594995
+              },
+              "icon": "lucide-file-text",
+              "title": "电子与信息工程学院_计算机科学与技术_张媛_周君杰_21205020234_基于React的个性化学习资源导航平台"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0cf065f4f4db6fec",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9cb41393207146cf",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "7f7168050f8b9564",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "fac67b7c97ee1007",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "e8e16e495562a9fd",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "652a5ae83dc22f52",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f07b4d127e4d5cbc",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a974bf142d29bd00",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Bias.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "2fbbefc1b3b0fc14",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Bias.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "54abc6e049099874",
+        "type": "leaf",
+        "state": {
+          "type": "copilot-chat-view",
+          "state": {},
+          "icon": "message-square",
+          "title": "Copilot"
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "d1e35b5ea30ea65f",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Rationality_AI_Zombies-Eliezer_Yudkowsky.pdf",
+    "Bias.md",
+    "learninghowtolearn.md",
+    "LearningSystem.canvas",
+    "2025-06-07.md"
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "965a38a0f43a326c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7b383e1f880b45f",
+        "type": "tabs",
+        "dimension": 67.67317939609237,
+        "children": [
+          {
+            "id": "0212ba7e194b4eea",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Learning/Learning System.canvas",
+                "viewState": {
+                  "x": 1171.5,
+                  "y": -145,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Learning System"
+            }
+          },
+          {
+            "id": "d79ab066e7a0bec6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Learning/Learning Path.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Learning Path"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "c136515d8e31a1ab",
+        "type": "tabs",
+        "dimension": 32.326820603907635,
+        "children": [
+          {
+            "id": "a3bc44b40a6c8133",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d552ac085f2cbbdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d081dcf625a82ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb0fbedfbe3c55fb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "26e718fb18b24740",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bd47ebe0d8b25761",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "right": {
+    "id": "aa64f2929422d99f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a861c542fb199eca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff2473757aebeab5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e38789f08f81c0dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0612bb97d8de4b60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3becaa6c7197f885",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "048eb19918d0fa70",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "a3bc44b40a6c8133",
+  "lastOpenFiles": [
+    "Learning/Learning Path.canvas",
+    "Learning/Learning System.canvas",
+    "Pasted image 20250111100053.png",
+    "Pasted image 20250111095850.png",
+    "Welcome.md",
+    "English/English Learning System.canvas",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Learning",
+    "English",
+    "Tags"
+  ]
+}

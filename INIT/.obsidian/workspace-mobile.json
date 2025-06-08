@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "6f41abc8b8910e05",
+    "type": "split",
+    "children": [
+      {
+        "id": "61d60650bda2064e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c96755c39e80dbcf",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Learning/Learning System.canvas",
+                "viewState": {
+                  "x": 1753.3716249033878,
+                  "y": -817.1664599493565,
+                  "zoom": -1.897977335459904
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Learning System"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b491e288e9e6da82",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "ac531a06cdeb8141",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "4d1267c2abb992b0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "2e1218f768eb6c66",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "f24c02c2df23baea",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7faae64577d2c054",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "458206cf7c16286e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Learning/Learning System.canvas",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "f3f5732cf61f6086",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Learning/Learning System.canvas",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "aa3d4ebda74a39e6",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Learning/Learning System.canvas",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "5ac18132dac9e917",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {},
+          "icon": "SpacedRepIcon",
+          "title": "Notes Review Queue"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "c96755c39e80dbcf",
+  "lastOpenFiles": [
+    "Learning/Learning Path.canvas",
+    "English/English Learning System.canvas",
+    "2025-06-06.md",
+    "C _Programming_Language.md"
+  ]
+}
