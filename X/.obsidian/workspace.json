@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0aac6c9eccd98e44",
+        "id": "5b61be6248c381cf",
         "type": "tabs",
         "children": [
           {
-            "id": "32388e736b8dc49d",
+            "id": "f1a2c543ca6f8f69",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Rationality_AI_Zombies-Eliezer_Yudkowsky.pdf",
-                "page": 234,
-                "left": -13,
-                "top": 538,
-                "zoom": 1.1590909090909092
+                "file": "Bias.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Rationality_AI_Zombies-Eliezer_Yudkowsky"
+              "icon": "lucide-file",
+              "title": "Bias"
             }
           }
         ]
@@ -122,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rationality_AI_Zombies-Eliezer_Yudkowsky.pdf",
+                "file": "Bias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Rationality_AI_Zombies-Eliezer_Yudkowsky"
+              "title": "Backlinks for Bias"
             }
           },
           {
@@ -211,11 +209,11 @@
   },
   "active": "52f0fa3fa33ca452",
   "lastOpenFiles": [
-    "电子与信息工程学院_计算机科学与技术_张媛_周君杰_21205020234_基于React的个性化学习资源导航平台.pdf",
+    "how to solve.md",
     "Rationality_AI_Zombies-Eliezer_Yudkowsky.pdf",
+    "电子与信息工程学院_计算机科学与技术_张媛_周君杰_21205020234_基于React的个性化学习资源导航平台.pdf",
     "Bias.md",
     "LearningSystem.canvas",
-    "how to solve.md",
     "Pasted image 20250608002311.png",
     "Welcome.md",
     "Artificial Intelligence.md",
