@@ -11,17 +11,63 @@
             "id": "f1a2c543ca6f8f69",
             "type": "leaf",
             "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "X/.copilot/pdf-cache/53c01adc0100664ffe7b5edf278e58d5.json",
+                "bFile": "X/.copilot/pdf-cache/53c01adc0100664ffe7b5edf278e58d5.json",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 53c01adc0100664ffe7b5edf278e58d5.json"
+            }
+          },
+          {
+            "id": "e423b22bfc7a141c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Rationality_AI_Zombies-Eliezer_Yudkowsky.pdf",
+                "page": 234,
+                "left": -13,
+                "top": 554,
+                "zoom": 1.1590909090909092
+              },
+              "icon": "lucide-file-text",
+              "title": "Rationality_AI_Zombies-Eliezer_Yudkowsky"
+            }
+          },
+          {
+            "id": "ebda4212b5bc0979",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "X/conflict-files-obsidian-git.md",
+                "bFile": "X/conflict-files-obsidian-git.md",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: conflict-files-obsidian-git"
+            }
+          },
+          {
+            "id": "b2d5dc30aebde133",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "conflict-files-obsidian-git"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -120,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -183,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -207,15 +253,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f1a2c543ca6f8f69",
+  "active": "e3c8fc665dd8ba6f",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Welcome.md",
     "Rationality_AI_Zombies-Eliezer_Yudkowsky.pdf",
+    "LearningSystem.canvas",
+    "how to solve.md",
     "Bias.md",
     "电子与信息工程学院_计算机科学与技术_张媛_周君杰_21205020234_基于React的个性化学习资源导航平台.pdf",
-    "how to solve.md",
-    "LearningSystem.canvas",
     "Pasted image 20250608002311.png",
-    "Welcome.md",
     "Artificial Intelligence.md",
     "machine learning.md",
     "Machine Learning Overview.md",
