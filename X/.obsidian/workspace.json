@@ -11,22 +11,6 @@
             "id": "32388e736b8dc49d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "47d7227d7390d549",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c5cd102b345cfa2d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "how to solve.md",
@@ -224,13 +208,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04ccbe53561bbe75",
+  "active": "32388e736b8dc49d",
   "lastOpenFiles": [
+    "Bias.md",
     "电子与信息工程学院_计算机科学与技术_张媛_周君杰_21205020234_基于React的个性化学习资源导航平台.pdf",
     "how to solve.md",
     "Rationality_AI_Zombies-Eliezer_Yudkowsky.pdf",
     "LearningSystem.canvas",
-    "Bias.md",
     "Welcome.md",
     "Artificial Intelligence.md",
     "machine learning.md",
